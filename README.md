@@ -1,6 +1,6 @@
 # Flutter Login & Register app using SQLite.
 
-<p align="left">
+<p align="justify">
   <img src="https://github.com/user-attachments/assets/f08cfb69-80f0-415a-9aef-7e9e4a761d87" width="220"/>
    &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f21ad16a-a114-493f-a93a-fbe9e3cadae5" width="220"/>
